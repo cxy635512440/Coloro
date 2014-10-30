@@ -1,0 +1,4172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+    <head>
+
+        <version>
+1.1.0
+        </version>
+
+        <title>
+default stream
+        </title>
+    </head>
+
+    <body>
+
+        <media
+            id="001"
+            guide="cctv1"
+            image="http://cn.daroonsoft.com/images/cctv_1.png"
+            title="CCTV-1 综合"
+            version="21" >
+
+            <ref
+                bitrate="755"
+                height="288"
+                href="mms://www.xjklmy.com/tv-6"
+                width="384" />
+
+            <ref
+                bitrate="264"
+                height="240"
+                href="rtsp://114.255.201.246/cctv1_256_h264.sdp"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/cctv1_HD"
+                width="720" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtmp://live.cditv.cn/test/CCTV1"
+                width="320" />
+
+            <ref
+                bitrate="412"
+                height="480"
+                href="rtsp://bupt01.video.edu.cn/CCTV-1"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/cctv1_HD"
+                width="720" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="rtsp://211.138.120.114/cctv1"
+                width="512" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live591/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="002"
+            guide="cctv2"
+            image="http://cn.daroonsoft.com/images/cctv_2.png"
+            title="CCTV-2 财经"
+            version="18" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-2"
+                width="640" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://114.255.201.246/cctv2_256_h264.sdp"
+                width="320" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv2"
+                width="512" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live592/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="003"
+            desc="中央电视台综艺频道是以播出音乐及歌舞节目为主的专业频道，于1995年11月30日正式播出，通过亚太1A卫星覆盖全国，每天播出19小时左右。"
+            guide="cctv3"
+            image="http://cn.daroonsoft.com/images/cctv_3.png"
+            title="CCTV-3 综艺"
+            version="15" >
+
+            <ref
+                bitrate="264"
+                height="240"
+                href="rtsp://114.255.201.246/cctv3_256_h264.sdp"
+                width="320" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv3"
+                width="512" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/cctv3"
+                width="720" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live593/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="004"
+            desc="中央电视台国际频道是以海外华人、华侨和港、澳、台为主要服务对象的专业频道，于1992年10月1日开播。国际频道的播出信号采用数字压缩技术，通过多颗国际卫星传输，基本实现了卫星传输信号的全球覆盖和卫星直播信号的重点地区覆盖。"
+            guide="cctv4"
+            image="http://cn.daroonsoft.com/images/cctv_4.png"
+            title="CCTV-4 中文国际（亚）"
+            version="19" >
+
+            <ref
+                bitrate="632"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-4"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=11"
+                width="640" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv4"
+                width="512" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live594/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="005"
+            desc="中央电视台体育频道是国内创办最早、规模最大、拥有世界众多顶级赛事国内独家报道权的专业体育频道，于1995年1月1日正式开播，通过亚太1A卫星覆盖全国，每天平均播出16小时以上。"
+            guide="cctv5"
+            image="http://cn.daroonsoft.com/images/cctv_5.png"
+            title="CCTV-5 体育"
+            version="24" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="http://112.231.23.20:554/rtplive/tv18/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtmp://live.cditv.cn/test/CCTV5"
+                width="320" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://114.255.201.246/cctv5_256_h264.sdp"
+                width="320" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="rtsp://116.199.127.68/cctv5"
+                width="720" />
+
+            <ref
+                bitrate="600"
+                height="320"
+                href="rtmp://202.108.17.140/multicast/livestream"
+                width="480" />
+
+            <ref
+                bitrate="632"
+                height="480"
+                href="rtsp://bupt01.video.edu.cn/CCTV-5"
+                width="640" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="rtsp://211.138.120.114/cctv5"
+                width="512" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://media.zzti.edu.cn/cctv5"
+                width="320" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live595/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="006"
+            desc="中央电视台电影频道是以宣传电影、培养电影观众、传播影视文化为宗旨的专业频道，于1996年1月1日正式开播，通过亚太1A卫星覆盖全国，每天平均播出近17小时。"
+            guide="cctv6"
+            image="http://cn.daroonsoft.com/images/cctv_6.png"
+            title="CCTV-6 电影"
+            version="17" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-6"
+                width="640" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://114.255.201.246/cctv6_256_h264.sdp"
+                width="320" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv6"
+                width="512" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="rtsp://116.199.127.68/cctv6"
+                width="720" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://live512.itv.doplive.com.cn/live512/index_128k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="007"
+            desc="中央电视台少儿·军事·农业频道是以播出少儿、军事、农业节目为主的专业频道，于1995年11月30日开播，通过亚太1A卫星覆盖全国。平均每日播出近17个小时。"
+            guide="cctv7"
+            image="http://cn.daroonsoft.com/images/cctv_7.png"
+            title="CCTV-7 军事 农业"
+            version="11" >
+
+            <ref
+                bitrate="632"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-7"
+                width="640" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live597/index_900k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="008"
+            desc="中央电视台电视剧频道是以优秀电视剧为主要播出内容的专业频道，于1999年5月3日开播，通过亚太1A卫星覆盖全国，平均每天播出17小时。"
+            guide="cctv8"
+            image="http://cn.daroonsoft.com/images/cctv_8.png"
+            title="CCTV-8 电视剧"
+            version="12" >
+
+            <ref
+                bitrate="632"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-8"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtsp://114.255.201.246/cctv8_256_h264.sdp"
+                width="640" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv8"
+                width="512" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="rtsp://116.199.127.68/cctv8"
+                width="720" />
+        </media>
+
+        <media
+            id="009"
+            guide=""
+            image="http://cn.daroonsoft.com/images/cctv_news.png"
+            title="CCTV-News"
+            version="17" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://cntv.itv.doplive.com.cn/live599/index_128k.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-9"
+                width="640" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="mms://222.47.26.81/litv11"
+                width="320" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="mms://4.71.37.8/cctv9-200"
+                width="320" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv9"
+                width="512" />
+        </media>
+
+        <media
+            id="010"
+            guide="cctv9"
+            image="http://cn.daroonsoft.com/images/cctv_9.png"
+            title="CCTV-9 纪录"
+            version="12" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="mms://media.zzti.edu.cn/cctvnews/"
+                width="320" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="http://t.live.cntv.cn/m3u8/cctv9-jilu.m3u8"
+                width="720" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtmp://live.cditv.cn/test/CCTV9"
+                width="320" />
+        </media>
+
+        <media
+            id="011"
+            desc="中央电视台科学·教育频道(CCTV-10)，是因应国家“科教兴国”方略，以提高国民素质为宗旨，以教科文题材为内容的专业电视频道。"
+            guide="cctv10"
+            image="http://cn.daroonsoft.com/images/cctv_10.png"
+            title="CCTV-10 科教"
+            version="10" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-10"
+                width="640" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv10"
+                width="512" />
+        </media>
+
+        <media
+            id="012"
+            desc="中央电视台戏曲频道以弘扬和发展我国优秀戏曲艺术，满足戏迷审美要求为宗旨的专业频道，于2001年7月9日开播。"
+            guide="cctv11"
+            image="http://cn.daroonsoft.com/images/cctv_11.png"
+            title="CCTV-11 戏曲"
+            version="6" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-11"
+                width="640" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="http://t.live.cntv.cn/m3u8/cctv-xiqu.m3u8"
+                width="720" />
+        </media>
+
+        <media
+            id="013"
+            guide="cctv12"
+            image="http://cn.daroonsoft.com/images/cctv_12.png"
+            title="CCTV-12 社会与法"
+            version="9" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CCTV-12"
+                width="640" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="http://t.live.cntv.cn/m3u8/cctv12.m3u8"
+                width="720" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="rtsp://114.255.201.246/cctv12_256_h264.sdp"
+                width="720" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://202.108.39.103:554/57?.flv"
+                width="640" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctv12"
+                width="512" />
+        </media>
+
+        <media
+            id="014"
+            desc="新闻频道全天24小时播出，全天24档整点新闻。整点新闻将以最快的速度向观众提供第一手的国内国际新闻资讯，突出时效性和信息量，实现滚动、递进、更新式报道。整点新闻后，分别安排了各分类新闻，主要有财经、体育、文化、国际四大类。"
+            guide="cctvxwpd"
+            image="http://cn.daroonsoft.com/images/cctv_13.png"
+            title="CCTV-13 新闻"
+            version="23" >
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://cntv.itv.doplive.com.cn/live603/index_900k.m3u8"
+                width="648" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=1"
+                width="640" />
+
+            <ref
+                bitrate="800"
+                height="576"
+                href="http://ora.t.live.cntv.cn/live/test?fmt=x264_0K_flv"
+                width="720" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://211.138.120.114/cctvxw"
+                width="512" />
+        </media>
+
+        <media
+            id="216"
+            guide="cctvsepd"
+            image="http://cn.daroonsoft.com/images/cctv_shaoer.png"
+            title="CCTV-14 少儿"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtsp://211.68.71.252/CCTV-kid"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtsp://bupt01.video.edu.cn/CCTV-kid"
+                width="640" />
+        </media>
+
+        <media
+            id="370"
+            guide="cctvylpd"
+            image="http://cn.daroonsoft.com/images/cctv_music.png"
+            title="CCTV-15 音乐"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtsp://bupt01.video.edu.cn/CCTV-music"
+                width="640" />
+        </media>
+
+        <media
+            id="366"
+            guide="fyzq"
+            image="http://cn.daroonsoft.com/images/ffzq.png"
+            title="CCTV-风云足球"
+            version="2" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://livertmp.wasu.cn/live4/fyzq"
+                width="640" />
+        </media>
+
+        <media
+            id="214"
+            guide="cctv-gq"
+            image="http://cn.daroonsoft.com/images/cctv_gaoqing.png"
+            title="CCTV高清"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://202.108.17.104/live/test02"
+                width="720" />
+        </media>
+
+        <media
+            id="072"
+            guide="jyyt"
+            image="http://cn.daroonsoft.com/images/cetv.png"
+            title="中国教育—1"
+            version="10" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CETV-1"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=30"
+                width="640" />
+        </media>
+
+        <media
+            id="073"
+            guide="jyst"
+            image="http://cn.daroonsoft.com/images/cetv.png"
+            title="中国教育—3"
+            version="6" >
+
+            <ref
+                bitrate="1440"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CETV-3"
+                width="640" />
+
+            <ref
+                bitrate="1440"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=29"
+                width="640" />
+        </media>
+
+        <media
+            id="367"
+            guide=""
+            image="http://cn.daroonsoft.com/images/oozq.png"
+            title="欧洲足球"
+            version="1" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="rtmp://livertmp.wasu.cn/live/ozzq"
+                width="320" />
+        </media>
+
+        <media
+            id="018"
+            guide="hunanws"
+            image="http://cn.daroonsoft.com/images/hunantv.png"
+            title="湖南卫视"
+            version="28" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.26.81/litv09"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=44"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=9"
+                width="640" />
+
+            <ref
+                bitrate="156"
+                height="144"
+                href="rtsp://121.14.129.221/broadcast/pushfeeder/rtpencoder/hnws-s.sdp"
+                width="176" />
+
+            <ref
+                bitrate="1044"
+                height="402"
+                href="http://180.153.212.207:1863/18091377.flv"
+                width="720" />
+        </media>
+
+        <media
+            id="022"
+            guide="hnjykt"
+            image="http://cn.daroonsoft.com/images/hunantv.png"
+            title="金鹰卡通"
+            version="4" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://livertmp.wasu.cn/live7/jykt"
+                width="640" />
+        </media>
+
+        <media
+            id="112"
+            guide="csxwpd"
+            image="http://cn.daroonsoft.com/images/changshatv.png"
+            title="长沙新闻"
+            version="6" >
+
+            <ref
+                bitrate="421"
+                height="240"
+                href="mms://222.240.196.154/xinwenlive"
+                width="320" />
+        </media>
+
+        <media
+            id="113"
+            guide="cszfpd"
+            image="http://cn.daroonsoft.com/images/changshatv.png"
+            title="长沙政法"
+            version="5" >
+
+            <ref
+                bitrate="421"
+                height="240"
+                href="mms://222.240.196.154/live"
+                width="320" />
+        </media>
+
+        <media
+            id="114"
+            guide="csnxpd"
+            image="http://cn.daroonsoft.com/images/changshatv.png"
+            title="长沙女性"
+            version="4" >
+
+            <ref
+                bitrate="421"
+                height="240"
+                href="mms://222.240.196.154/wmlive"
+                width="320" />
+        </media>
+
+        <media
+            id="027"
+            guide="dfaws"
+            image="http://cn.daroonsoft.com/images/dongfangtv.png"
+            title="上海东方卫视"
+            version="20" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/SHWS"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=3"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="402"
+                href="http://112.90.11.88:1863/3900155972.flv"
+                width="720" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/dongfang"
+                width="720" />
+        </media>
+
+        <media
+            id="372"
+            guide=""
+            image="http://cn.daroonsoft.com/images/dongfangtv.png"
+            title="东方财经"
+            version="6" >
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://edgews.yicai.com/channels/602/400.flv/live"
+                width="640" />
+        </media>
+
+        <media
+            id="126"
+            guide="sitvwxty"
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="五星体育"
+            version="7" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/214/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="111"
+            guide="ssdycjpd"
+            image="http://cn.daroonsoft.com/images/cbnlogo.png"
+            title="第一财经"
+            version="6" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://clientcbn.bbtv.cn/clientcbn"
+                width="320" />
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/212/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="127"
+            guide="ssxwzhpd"
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海新闻综合"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/210/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="128"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海星尚"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/211/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="130"
+            guide="ssjspd"
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海纪实"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/215/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="131"
+            guide="ssxwylpd"
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海娱乐"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/217/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="132"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海艺术人文"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/218/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="133"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="上海ICS外语频道"
+            version="4" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/220/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="240"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="东方购物"
+            version="1" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/219/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="320"
+            guide="sitvyxfy"
+            image="http://cn.daroonsoft.com/images/shanghaitv.png"
+            title="游戏风云"
+            version="1" >
+
+            <ref
+                bitrate="409"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/293/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="373"
+            guide=""
+            image="http://cn.daroonsoft.com/images/eastmovie.png"
+            title="生活时尚"
+            version="6" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://live-cdn.smgbb.tv/channels/222/400.flv/live"
+                width="320" />
+        </media>
+
+        <media
+            id="108"
+            guide=""
+            image="http://cn.daroonsoft.com/images/xuandongkatongtv.png"
+            title="炫动卡通"
+            version="9" >
+
+            <ref
+                bitrate="600"
+                height="348"
+                href="http://live-cdn.smgbb.tv/channels/224/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="368"
+            guide="sitvjbty"
+            image="http://cn.daroonsoft.com/images/jbty.png"
+            title="劲爆体育"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://livertmp.wasu.cn/live5/jbty"
+                width="640" />
+        </media>
+
+        <media
+            id="036"
+            guide="btv1"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京卫视"
+            version="16" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-1"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313430367C317C323030307C474754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=36"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/beijing"
+                width="720" />
+        </media>
+
+        <media
+            id="085"
+            guide="btv4"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京影视"
+            version="4" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-5"
+                width="640" />
+        </media>
+
+        <media
+            id="086"
+            guide="btv2"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京文艺"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=37"
+                width="640" />
+        </media>
+
+        <media
+            id="087"
+            guide="btv7"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京生活"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-7"
+                width="640" />
+        </media>
+
+        <media
+            id="088"
+            guide="btv3"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京科教"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-3"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=38"
+                width="640" />
+        </media>
+
+        <media
+            id="089"
+            guide="btv5"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京财经"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=40"
+                width="640" />
+        </media>
+
+        <media
+            id="090"
+            guide="btv8"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京青年"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-8"
+                width="640" />
+        </media>
+
+        <media
+            id="094"
+            guide="btv6"
+            image="http://cn.daroonsoft.com/images/btv.png"
+            title="北京体育"
+            version="6" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/BTV-6"
+                width="640" />
+        </media>
+
+        <media
+            id="115"
+            guide="hzzhpd"
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="杭州综合频道"
+            version="1" >
+
+            <ref
+                bitrate="450"
+                height="360"
+                href="http://live.hcrt.cn/channels/100/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="116"
+            guide="hzxhmzpd"
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="杭州西湖明珠频道"
+            version="1" >
+
+            <ref
+                bitrate="450"
+                height="360"
+                href="http://live.hcrt.cn/channels/101/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="117"
+            guide="hzshpd"
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="杭州生活频道"
+            version="2" >
+
+            <ref
+                bitrate="450"
+                height="360"
+                href="http://live.hcrt.cn/channels/102/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="118"
+            guide="hzyspd"
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="杭州影视频道"
+            version="5" >
+
+            <ref
+                bitrate="450"
+                height="288"
+                href="http://live.hcrt.cn/channels/39/400.flv/live"
+                width="384" />
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="rtsp://211.138.120.114/ztv5"
+                width="512" />
+        </media>
+
+        <media
+            id="119"
+            guide="hzsepd"
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="杭州少儿频道"
+            version="2" >
+
+            <ref
+                bitrate="450"
+                height="384"
+                href="http://live.hcrt.cn/channels/40/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="202"
+            guide=""
+            image="http://cn.daroonsoft.com/images/hangzhoutv.png"
+            title="房产频道"
+            version="2" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/ifcpd.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="037"
+            guide="jxws"
+            image="http://cn.daroonsoft.com/images/jiangxitv.png"
+            title="江西卫视"
+            version="14" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531347C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=18"
+                width="640" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="rtmp://live.cjxtv.com:1935/live2/livestream"
+                width="320" />
+        </media>
+
+        <media
+            id="038"
+            guide="gxws"
+            image="http://cn.daroonsoft.com/images/guangxi.png"
+            title="广西卫视"
+            version="10" >
+
+            <ref
+                bitrate="1240"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=23"
+                width="640" />
+
+            <ref
+                bitrate="1240"
+                height="480"
+                href="http://222.216.111.88:5000/nn_live.flv?id=1004"
+                width="640" />
+        </media>
+
+        <media
+            id="039"
+            guide="henanws"
+            image="http://cn.daroonsoft.com/images/henantv.png"
+            title="河南卫视"
+            version="14" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=19"
+                width="640" />
+        </media>
+
+        <media
+            id="040"
+            guide="hubeiws"
+            image="http://cn.daroonsoft.com/images/hubeitv.png"
+            title="湖北卫视"
+            version="13" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtsp://bupt01.video.edu.cn/HBWS"
+                width="640" />
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="http://live9.hbtv.com.cn/channels/zbk/hbws/flv:sd/live"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=22"
+                width="640" />
+        </media>
+
+        <media
+            id="134"
+            guide=""
+            image="http://cn.daroonsoft.com/images/hubeitv.png"
+            title="湖北经视"
+            version="1" >
+
+            <ref
+                bitrate="900"
+                height="576"
+                href="http://live9.hbtv.com.cn/channels/zbk/jingshi2/flv:sd/live"
+                width="720" />
+        </media>
+
+        <media
+            id="140"
+            guide="hbtypd"
+            image="http://cn.daroonsoft.com/images/hubeitv.png"
+            title="湖北体育"
+            version="1" >
+
+            <ref
+                bitrate="900"
+                height="576"
+                href="http://live9.hbtv.com.cn/channels/zbk/hbty/flv:sd/live"
+                width="720" />
+        </media>
+
+        <media
+            id="141"
+            guide="hubyspd"
+            image="http://cn.daroonsoft.com/images/hubeitv.png"
+            title="湖北影视"
+            version="1" >
+
+            <ref
+                bitrate="900"
+                height="576"
+                href="http://live9.hbtv.com.cn/channels/zbk/hbys/flv:sd/live"
+                width="720" />
+        </media>
+
+        <media
+            id="225"
+            guide=""
+            image="http://cn.daroonsoft.com/images/hubeitv.png"
+            title="湖北电视台"
+            version="1" >
+
+            <ref
+                bitrate="900"
+                height="576"
+                href="http://live9.hbtv.com.cn/channels/zbk/hbtv/flv:sd/live"
+                width="720" />
+        </media>
+
+        <media
+            id="042"
+            guide="hljws"
+            image="http://cn.daroonsoft.com/images/heilongjiangtv.png"
+            title="黑龙江电视台"
+            version="16" >
+
+            <ref
+                bitrate="1044"
+                height="448"
+                href="http://gslb.tv.sohu.com/live?cid=59"
+                width="800" />
+        </media>
+
+        <media
+            id="043"
+            guide="lnws"
+            image="http://cn.daroonsoft.com/images/niaolingtv.png"
+            title="辽宁卫视"
+            version="8" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/LNWS"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=10"
+                width="640" />
+        </media>
+
+        <media
+            id="044"
+            guide="sx1ws"
+            image="http://cn.daroonsoft.com/images/shanxitv.png"
+            title="山西卫视"
+            version="8" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=50"
+                width="640" />
+        </media>
+
+        <media
+            id="045"
+            guide="sx3ws"
+            image="http://cn.daroonsoft.com/images/shaxiatv.png"
+            title="陕西卫视"
+            version="12" >
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531337C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=20"
+                width="640" />
+        </media>
+
+        <media
+            id="046"
+            guide="tjws"
+            image="http://cn.daroonsoft.com/images/tianjingtv.png"
+            title="天津卫视"
+            version="9" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=15"
+                width="640" />
+        </media>
+
+        <media
+            id="047"
+            guide="ynws"
+            image="http://cn.daroonsoft.com/images/yunnantv.png"
+            title="云南卫视"
+            version="6" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/YNWS"
+                width="640" />
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313533317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=17"
+                width="640" />
+        </media>
+
+        <media
+            id="310"
+            guide=""
+            image="http://cn.daroonsoft.com/images/yunnantv.png"
+            title="云南都市"
+            version="7" >
+
+            <ref
+                bitrate="521"
+                height="384"
+                href="http://116.55.228.241/channels/622/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="311"
+            guide="yntyylpd"
+            image="http://cn.daroonsoft.com/images/yunnantv.png"
+            title="云南娱乐"
+            version="7" >
+
+            <ref
+                bitrate="521"
+                height="384"
+                href="http://116.55.228.243/channels/623/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="312"
+            guide="ynggpd"
+            image="http://cn.daroonsoft.com/images/yunnantv.png"
+            title="云南公共"
+            version="7" >
+
+            <ref
+                bitrate="521"
+                height="384"
+                href="http://116.55.228.241/channels/626/400.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="048"
+            guide="zqws"
+            image="http://cn.daroonsoft.com/images/chongqingtv.png"
+            title="重庆卫视"
+            version="12" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/CQWS"
+                width="640" />
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="rtsp://123.147.160.18/cqtv.sdp"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=35"
+                width="640" />
+        </media>
+
+        <media
+            id="322"
+            guide="whtypd"
+            image="http://cn.daroonsoft.com/images/wuhantv.png"
+            title="武汉体育"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://multimedia.whbc.com.cn:1935/live/whtv5gd"
+                width="640" />
+        </media>
+
+        <media
+            id="332"
+            guide="whkjshpd"
+            image="http://cn.daroonsoft.com/images/wuhantv.png"
+            title="武汉科教生活"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://multimedia.whbc.com.cn:1935/live/whtv3gd"
+                width="640" />
+        </media>
+
+        <media
+            id="049"
+            guide="nxws"
+            image="http://cn.daroonsoft.com/images/ningxiatv.png"
+            title="宁夏卫视"
+            version="11" >
+
+            <ref
+                bitrate="480"
+                height="640"
+                href="http://gslb.tv.sohu.com/live?cid=33"
+                width="320" />
+        </media>
+
+        <media
+            id="050"
+            guide="jsws"
+            image="http://cn.daroonsoft.com/images/jiangsutv.png"
+            title="江苏卫视"
+            version="18" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/JSWS"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=8"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://182.131.19.166:1863/1258215255.flv"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/jiangsu"
+                width="720" />
+        </media>
+
+        <media
+            id="051"
+            guide="gzws"
+            image="http://cn.daroonsoft.com/images/guizhoutv.png"
+            title="贵州卫视"
+            version="10" >
+
+            <ref
+                bitrate="1240"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=32"
+                width="640" />
+        </media>
+
+        <media
+            id="052"
+            guide="nmgws"
+            image="http://cn.daroonsoft.com/images/neimenggutv.png"
+            title="内蒙古卫视"
+            version="8" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://gslb.tv.sohu.com/live?cid=26"
+                width="320" />
+        </media>
+
+        <media
+            id="053"
+            guide="xzhyws"
+            image="http://cn.daroonsoft.com/images/xizhangtv.png"
+            title="西藏卫视"
+            version="8" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=25"
+                width="640" />
+        </media>
+
+        <media
+            id="054"
+            guide="xjws"
+            image="http://cn.daroonsoft.com/images/xinjiangtv.png"
+            title="新疆卫视"
+            version="6" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=5"
+                width="640" />
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="mms://www.xjklmy.com/tv-1"
+                width="384" />
+        </media>
+
+        <media
+            id="055"
+            guide="scws"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川卫视"
+            version="12" >
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313439397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://gslb.tv.sohu.com/live?cid=27"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV1_800"
+                width="720" />
+        </media>
+
+        <media
+            id="295"
+            guide="scwhlypd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川文化旅游"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV2_800"
+                width="720" />
+        </media>
+
+        <media
+            id="296"
+            guide="scjjpd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川经视频道"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV3_800"
+                width="720" />
+        </media>
+
+        <media
+            id="297"
+            guide="scxwzxpd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川新闻资讯"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV4_800"
+                width="720" />
+        </media>
+
+        <media
+            id="298"
+            guide="scyswypd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川影视文艺"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV5_800"
+                width="720" />
+        </media>
+
+        <media
+            id="299"
+            guide=""
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川星空购物"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV6_800"
+                width="720" />
+        </media>
+
+        <media
+            id="300"
+            guide="scfnetpd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川妇女儿童"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV7_800"
+                width="720" />
+        </media>
+
+        <media
+            id="301"
+            guide="scggpd"
+            image="http://cn.daroonsoft.com/images/sichuantv.png"
+            title="四川公共频道"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://rtmp.sctv.com/SRT_Live/SCTV9_800"
+                width="720" />
+        </media>
+
+        <media
+            id="056"
+            guide="zjws"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江卫视"
+            version="17" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/ZJWS"
+                width="640" />
+
+            <ref
+                bitrate="1240"
+                height="576"
+                href="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438337C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00"
+                width="768" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=31"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://119.147.126.78:1863/1975434150.flv"
+                width="720" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/zhejiang"
+                width="720" />
+        </media>
+
+        <media
+            id="337"
+            guide="zjqjdspd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江钱江"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="384"
+                href="rtsp://211.138.120.114/ztv2"
+                width="512" />
+        </media>
+
+        <media
+            id="338"
+            guide="zjjjpd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江经视"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="320"
+                href="rtsp://211.138.120.114/ztv3"
+                width="426" />
+        </media>
+
+        <media
+            id="339"
+            guide="zjjykjpd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江科教"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="320"
+                href="rtsp://211.138.120.114/ztv4"
+                width="426" />
+        </media>
+
+        <media
+            id="340"
+            guide="zjysylpd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江影视"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="320"
+                href="rtsp://211.138.120.114/ztv5"
+                width="426" />
+        </media>
+
+        <media
+            id="341"
+            guide="zjmsxxpd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江民生"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="320"
+                href="rtsp://211.138.120.114/ztv6"
+                width="426" />
+        </media>
+
+        <media
+            id="342"
+            guide="zjsepd"
+            image="http://cn.daroonsoft.com/images/zhejiangtv.png"
+            title="浙江少儿"
+            version="1" >
+
+            <ref
+                bitrate="228"
+                height="320"
+                href="rtsp://211.138.120.114/ztv8"
+                width="426" />
+        </media>
+
+        <media
+            id="057"
+            guide="ahws"
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽卫视"
+            version="17" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/AHWS"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=13"
+                width="640" />
+        </media>
+
+        <media
+            id="323"
+            guide="ahyspd"
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽影视"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1502/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="324"
+            guide="ahjjshpd"
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽经济生活"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1503/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="325"
+            guide=""
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽综艺"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1504/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="326"
+            guide="ahkjpd"
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽科教"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1505/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="327"
+            guide="ahggpd"
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽公共"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1506/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="328"
+            guide=""
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽人物"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1507/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="329"
+            guide=""
+            image="http://cn.daroonsoft.com/images/anhuitv.png"
+            title="安徽国际"
+            version="1" >
+
+            <ref
+                bitrate="512"
+                height="384"
+                href="http://livecdn.ahtv.cn/channels/1508/500.flv/live"
+                width="480" />
+        </media>
+
+        <media
+            id="058"
+            guide="sdws"
+            image="http://cn.daroonsoft.com/images/shandongtv.png"
+            title="山东卫视"
+            version="12" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=14"
+                width="640" />
+        </media>
+
+        <media
+            id="059"
+            guide="jlws"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林卫视"
+            version="14" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=21"
+                width="640" />
+        </media>
+
+        <media
+            id="302"
+            guide="jldspd"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林都市"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlds/"
+                width="320" />
+        </media>
+
+        <media
+            id="303"
+            guide="jlssh"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林生活"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlsh"
+                width="320" />
+        </media>
+
+        <media
+            id="304"
+            guide="jlyspd"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林影视"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlys"
+                width="320" />
+        </media>
+
+        <media
+            id="305"
+            guide="jlxcpd"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林乡村"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlxc/"
+                width="320" />
+        </media>
+
+        <media
+            id="306"
+            guide="jlfz"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林法制"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlfz"
+                width="320" />
+        </media>
+
+        <media
+            id="307"
+            guide="jlggpd"
+            image="http://cn.daroonsoft.com/images/jilintv.png"
+            title="吉林公共"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://222.168.5.236/jlgg"
+                width="320" />
+        </media>
+
+        <media
+            id="308"
+            guide=""
+            image="http://cn.daroonsoft.com/images/changchuntv.png"
+            title="长春综合频道"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://video.chinactv.com/CTV/"
+                width="320" />
+        </media>
+
+        <media
+            id="170"
+            guide="dnws"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="东南卫视"
+            version="13" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=7"
+                width="640" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/setv"
+                width="320" />
+        </media>
+
+        <media
+            id="226"
+            guide=""
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建海峡卫视"
+            version="8" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv9"
+                width="320" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv10"
+                width="320" />
+        </media>
+
+        <media
+            id="345"
+            guide="fjzhpd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建综合"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv1"
+                width="320" />
+        </media>
+
+        <media
+            id="346"
+            guide="fjggpd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建公共"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv3"
+                width="320" />
+        </media>
+
+        <media
+            id="347"
+            guide="fjxwpd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建新闻"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv4"
+                width="320" />
+        </media>
+
+        <media
+            id="348"
+            guide="fjdsjpd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建电视剧"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv5"
+                width="320" />
+        </media>
+
+        <media
+            id="349"
+            guide="fjdssspd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建都市时尚"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv6"
+                width="320" />
+        </media>
+
+        <media
+            id="350"
+            guide="fjjjshpd"
+            image="http://cn.daroonsoft.com/images/dongnantv.png"
+            title="福建经济生活"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://video.fjtv.net/fjtv7"
+                width="320" />
+        </media>
+
+        <media
+            id="286"
+            guide="xmws"
+            image="http://cn.daroonsoft.com/images/xiamentv.png"
+            title="厦门卫视"
+            version="10" >
+
+            <ref
+                bitrate="544"
+                height="384"
+                href="mms://mediasrv1.iptv.xmg.com.cn/tvhaixia"
+                width="480" />
+
+            <ref
+                bitrate="1240"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=6"
+                width="640" />
+        </media>
+
+        <media
+            id="171"
+            guide="gsws"
+            image="http://cn.daroonsoft.com/images/gansutv.png"
+            title="甘肃卫视"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=34"
+                width="640" />
+        </media>
+
+        <media
+            id="172"
+            guide="hebeiws"
+            image="http://cn.daroonsoft.com/images/hebeitv.png"
+            title="河北卫视"
+            version="8" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=24"
+                width="640" />
+        </media>
+
+        <media
+            id="174"
+            guide="qhws"
+            image="http://cn.daroonsoft.com/images/qinghaitv.png"
+            title="青海卫视"
+            version="10" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=12"
+                width="640" />
+
+            <ref
+                bitrate="512"
+                height="288"
+                href="http://gslb.tv.sohu.com/live?cid=71"
+                width="352" />
+        </media>
+
+        <media
+            id="060"
+            guide=""
+            image="http://cn.daroonsoft.com/images/zhuhaitv.png"
+            title="珠海1台"
+            version="5" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/izhuhai.sdp/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://live.zhtv.com/live/zhtv1"
+                width="640" />
+        </media>
+
+        <media
+            id="334"
+            guide=""
+            image="http://cn.daroonsoft.com/images/zhuhaitv.png"
+            title="珠海2台"
+            version="5" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="rtmp://live.zhtv.com/live/zhtv2"
+                width="640" />
+        </media>
+
+        <media
+            id="061"
+            guide="nfwspd"
+            image="http://cn.daroonsoft.com/images/tvs.png"
+            title="南方卫视"
+            version="11" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/itvs2.sdp/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=16"
+                width="640" />
+        </media>
+
+        <media
+            id="062"
+            guide="nfyspd"
+            image="http://cn.daroonsoft.com/images/tvs.png"
+            title="南方影视频道"
+            version="6" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/itvs4.sdp/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/nanfang_movie"
+                width="720" />
+        </media>
+
+        <media
+            id="063"
+            guide="lyws"
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="旅游卫视"
+            version="14" >
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="mms://bupt02.video.edu.cn/LYWS"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=28"
+                width="640" />
+        </media>
+
+        <media
+            id="352"
+            guide="hnzhpd"
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="海南综合"
+            version="13" >
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="rtsp://41.bluehn.com/LIVECAM1"
+                width="384" />
+        </media>
+
+        <media
+            id="353"
+            guide=""
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="海南新闻"
+            version="13" >
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="rtsp://40.bluehn.com/LIVECAM2"
+                width="384" />
+        </media>
+
+        <media
+            id="354"
+            guide="hnysylpd"
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="海南影视剧"
+            version="13" >
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="rtsp://41.bluehn.com/LIVECAM3"
+                width="384" />
+        </media>
+
+        <media
+            id="355"
+            guide=""
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="海南综艺生活"
+            version="13" >
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="rtsp://43.bluehn.com/LIVECAM4"
+                width="384" />
+        </media>
+
+        <media
+            id="356"
+            guide="hnsepd"
+            image="http://cn.daroonsoft.com/images/nvyoutv.png"
+            title="海南少儿"
+            version="13" >
+
+            <ref
+                bitrate="256"
+                height="288"
+                href="rtsp://42.bluehn.com/LIVECAM5"
+                width="384" />
+        </media>
+
+        <media
+            id="064"
+            guide="szws"
+            image="http://cn.daroonsoft.com/images/shenzhentv.png"
+            title="深圳卫视"
+            version="14" >
+
+            <ref
+                bitrate="1440"
+                height="432"
+                href="mms://bupt02.video.edu.cn/SZWS"
+                width="576" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://112.231.23.20:554/rtplive/tv29/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=45"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/shenzhen"
+                width="720" />
+        </media>
+
+        <media
+            id="065"
+            guide="gdws"
+            image="http://cn.daroonsoft.com/images/guangdongtv.png"
+            title="广东卫视"
+            version="19" >
+
+            <ref
+                bitrate="900"
+                height="448"
+                href="http://gslb.tv.sohu.com/live?cid=60"
+                width="800" />
+        </media>
+
+        <media
+            id="123"
+            guide="gdzjpd"
+            image="http://cn.daroonsoft.com/images/guangdongtv.png"
+            title="广东珠江"
+            version="9" >
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://119.147.126.79:1863/1926463423.flv"
+                width="640" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/igdzj.sdp/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/zhujiang"
+                width="720" />
+        </media>
+
+        <media
+            id="124"
+            guide="gdxwpd"
+            image="http://cn.daroonsoft.com/images/guangdongtv.png"
+            title="广东新闻"
+            version="6" >
+
+            <ref
+                bitrate="900"
+                height="480"
+                href="http://182.131.19.173:1863/2631736979.flv"
+                width="640" />
+        </media>
+
+        <media
+            id="015"
+            guide="gdtypd"
+            image="http://cn.daroonsoft.com/images/guangdongtv.png"
+            title="广东体育"
+            version="16" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="rtsp://121.14.129.221/asiangames/live/gdsports-s.sdp"
+                width="320" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="rtsp://121.14.129.221/asiangames/live/gdsports-ah.sdp"
+                width="320" />
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="rtsp://121.14.129.221/asiangames/live/gdsports-h.sdp"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/gdtv_sport"
+                width="720" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtmp://v1.gdtv.cn:1935/live/sports"
+                width="720" />
+        </media>
+
+        <media
+            id="066"
+            guide="gzyspd"
+            image="http://cn.daroonsoft.com/images/guangzhouwstv.png"
+            title="广州影视"
+            version="4" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/igzys.sdp/playlist.m3u8"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/gztv_movie"
+                width="720" />
+        </media>
+
+        <media
+            id="234"
+            guide="gzxwpd"
+            image="http://cn.daroonsoft.com/images/guangzhouwstv.png"
+            title="广州新闻"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://live21.gztv.com/gztv_news"
+                width="720" />
+        </media>
+
+        <media
+            id="235"
+            guide="gzzhpd"
+            image="http://cn.daroonsoft.com/images/guangzhouwstv.png"
+            title="广州综合"
+            version="2" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://live21.gztv.com/gztv_gz?"
+                width="720" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/gztv_gz"
+                width="720" />
+        </media>
+
+        <media
+            id="369"
+            guide="gzjspd"
+            image="http://cn.daroonsoft.com/images/guangzhouwstv.png"
+            title="广州竞赛"
+            version="1" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/gztv_sport"
+                width="720" />
+        </media>
+
+        <media
+            id="191"
+            guide="gdhzxwzhpd"
+            image="http://cn.daroonsoft.com/images/huizhouzonghtv.png"
+            title="惠州综合"
+            version="3" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/ihzws.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="335"
+            guide=""
+            image="http://cn.daroonsoft.com/images/huizhouzonghtv.png"
+            title="惠州公共"
+            version="2" >
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="http://live.hzrtv.cn/live/2da8f89ad3974579b573d45f73340d4a?fmt=H264_800K_FLV"
+                width="720" />
+        </media>
+
+        <media
+            id="192"
+            guide=""
+            image="http://cn.daroonsoft.com/images/jiangmenzonghtv.png"
+            title="江门综合"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/ijmws.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="193"
+            guide="fsxwzhpd"
+            image="http://cn.daroonsoft.com/images/fstv.png"
+            title="佛山综合"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/ifsws.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="194"
+            guide="fsggpd"
+            image="http://cn.daroonsoft.com/images/fstv.png"
+            title="佛山公共"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/ifsws2.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="195"
+            guide=""
+            image="http://cn.daroonsoft.com/images/hyrtv.png"
+            title="河源综合"
+            version="2" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/ihyzh.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="196"
+            guide=""
+            image="http://cn.daroonsoft.com/images/hyrtv.png"
+            title="河源公共"
+            version="2" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/ihygg.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="197"
+            guide=""
+            image="http://cn.daroonsoft.com/images/meizhoutv.png"
+            title="梅州综合"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/imzws.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="198"
+            guide=""
+            image="http://cn.daroonsoft.com/images/yunfuzonghtv.png"
+            title="云浮综合"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://58.248.254.7:1935/live/iyunfu.sdp/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="199"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shaoguantv.png"
+            title="韶关台"
+            version="3" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/isgws.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="200"
+            guide=""
+            image="http://cn.daroonsoft.com/images/shantoutv.png"
+            title="汕头台"
+            version="2" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/istws.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="016"
+            guide="fhzw"
+            image="http://cn.daroonsoft.com/images/Phoenixzwtv.jpg"
+            title="凤凰卫视"
+            version="16" >
+
+            <ref
+                bitrate="598"
+                height="240"
+                href="mms://222.47.26.81/litv01"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/fenghuang"
+                width="720" />
+        </media>
+
+        <media
+            id="017"
+            guide="fhzx"
+            image="http://cn.daroonsoft.com/images/Phoenixzxtv.jpg"
+            title="凤凰资讯"
+            version="20" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="mms://222.47.26.81/litv03"
+                width="320" />
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="http://ts.3gv.ifeng.com/live/iphone/zwt/index_256k.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="068"
+            guide="ygws"
+            image="http://cn.daroonsoft.com/images/suntv.png"
+            title="阳光卫视"
+            version="6" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://65.49.26.231/suntv"
+                width="320" />
+        </media>
+
+        <media
+            id="070"
+            guide="xkws"
+            image="http://cn.daroonsoft.com/images/xingkongweishi.png"
+            title="星空卫视"
+            version="9" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.62.74/litv06"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/xingkong"
+                width="720" />
+        </media>
+
+        <media
+            id="164"
+            guide="chcdzdy"
+            image="http://cn.daroonsoft.com/images/chcdzdy.png"
+            title="CHC动作电影"
+            version="6" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="rtsp://121.14.129.221/broadcast/pushfeeder/rtpencoder/dongzdy-h.sdp"
+                width="320" />
+
+            <ref
+                bitrate="156"
+                height="144"
+                href="rtsp://121.14.129.221/broadcast/pushfeeder/rtpencoder/dongzdy-s.sdp"
+                width="176" />
+        </media>
+
+        <media
+            id="165"
+            guide=""
+            image="http://cn.daroonsoft.com/images/zjmovie.png"
+            title="珠江电影"
+            version="6" >
+
+            <ref
+                bitrate="256"
+                height="240"
+                href="rtsp://121.14.129.221/broadcast/pushfeeder/rtpencoder/zjdy-h.sdp"
+                width="320" />
+
+            <ref
+                bitrate="156"
+                height="144"
+                href="rtsp://121.14.129.221/broadcast/pushfeeder/rtpencoder/zjdy-c.sdp"
+                width="176" />
+        </media>
+
+        <media
+            id="159"
+            guide="ayws"
+            image="http://cn.daroonsoft.com/images/mastv.png"
+            title="澳亚卫视"
+            version="35" >
+
+            <ref
+                bitrate="491"
+                height="480"
+                href="rtsp://59.125.169.12/MASTV_BS_500K"
+                width="640" />
+        </media>
+
+        <media
+            id="160"
+            guide=""
+            image="http://cn.daroonsoft.com/images/aoshi.png"
+            title="澳视澳门"
+            version="3" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://media4.tdm.com.mo/ch1"
+                width="320" />
+        </media>
+
+        <media
+            id="161"
+            guide=""
+            image="http://cn.daroonsoft.com/images/aoshi.png"
+            title="Canal Macau"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://media4.tdm.com.mo/ch2"
+                width="320" />
+        </media>
+
+        <media
+            id="162"
+            guide=""
+            image="http://cn.daroonsoft.com/images/aoshi.png"
+            title="澳视体育"
+            version="4" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://media4.tdm.com.mo/ch4"
+                width="320" />
+        </media>
+
+        <media
+            id="163"
+            guide=""
+            image="http://cn.daroonsoft.com/images/aoshishtv.png"
+            title="澳视生活"
+            version="4" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://media4.tdm.com.mo/ch3"
+                width="320" />
+        </media>
+
+        <media
+            id="294"
+            guide=""
+            image="http://cn.daroonsoft.com/images/lotus.png"
+            title="澳门莲花台"
+            version="4" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.62.74/litv12"
+                width="320" />
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.26.81/litv12"
+                width="320" />
+        </media>
+
+        <media
+            id="075"
+            guide="hyws"
+            image="http://cn.daroonsoft.com/images/cetvtv.PNG"
+            title="华娱卫视"
+            version="11" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.62.74/litv13"
+                width="320" />
+
+            <ref
+                bitrate="1044"
+                height="576"
+                href="rtsp://116.199.127.68/huayu"
+                width="720" />
+        </media>
+
+        <media
+            id="231"
+            guide=""
+            image="http://cn.daroonsoft.com/images/aziotv.png"
+            title="东风37台"
+            version="1" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="rtsp://203.69.41.22/TA_AZIO_AZIOT_200_MO"
+                width="320" />
+        </media>
+
+        <media
+            id="236"
+            guide=""
+            image="http://cn.daroonsoft.com/images/jktv.png"
+            title="健康卫视"
+            version="3" >
+
+            <ref
+                bitrate="412"
+                height="480"
+                href="rtsp://mms.jkwshk.com/jkws"
+                width="640" />
+
+            <ref
+                bitrate="1044"
+                height="480"
+                href="http://gslb.tv.sohu.com/live?cid=53"
+                width="640" />
+        </media>
+
+        <media
+            id="201"
+            guide=""
+            image="http://cn.daroonsoft.com/images/youlunlvyoutv.png"
+            title="邮轮旅游"
+            version="3" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://58.248.254.7:1935/live/iylly.sdp/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="107"
+            guide=""
+            image="http://cn.daroonsoft.com/images/nowtv.png"
+            title="NOW"
+            version="5" >
+
+            <ref
+                bitrate="548"
+                height="240"
+                href="mms://222.47.26.81/litv14"
+                width="320" />
+        </media>
+
+        <media
+            id="203"
+            guide=""
+            image="http://cn.daroonsoft.com/images/kbstv.png"
+            title="韩KBS高清"
+            version="2" >
+
+            <ref
+                bitrate="420"
+                height="270"
+                href="http://news24kbs-2.gscdn.com/news24_300/_definst_/news24_300.stream/playlist.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="204"
+            guide=""
+            image="http://cn.daroonsoft.com/images/wownettv.png"
+            title="韩WOWNet"
+            version="2" >
+
+            <ref
+                bitrate="128"
+                height="240"
+                href="http://wowmlive.shinbnstar.com:1935/live2/wowtv/playlist.m3u8"
+                width="320" />
+        </media>
+
+        <media
+            id="208"
+            guide=""
+            image="http://cn.daroonsoft.com/images/nhktv.png"
+            title="日NHK高清"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="272"
+                href="http://plslive-w.nhk.or.jp/nhkworld/app/high.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="209"
+            guide=""
+            image="http://cn.daroonsoft.com/images/nhktv.png"
+            title="日NHK"
+            version="2" >
+
+            <ref
+                bitrate="548"
+                height="272"
+                href="http://plslive-w.nhk.or.jp/nhkworld/app/mid.m3u8"
+                width="480" />
+        </media>
+
+        <media
+            id="212"
+            guide=""
+            image="http://cn.daroonsoft.com/images/euronews.png"
+            title="euronews"
+            version="4" >
+
+            <ref
+                bitrate="548"
+                height="304"
+                href="http://media4.lsops.net/live/_definst_/euronews_en_medium.sdp/playlist.m3u8"
+                width="480" />
+
+            <ref
+                bitrate="548"
+                height="304"
+                href="rtsp://media2.lsops.net/live/euronews_en_high.sdp"
+                width="480" />
+        </media>
+
+        <media
+            id="213"
+            guide="cnn"
+            image="http://cn.daroonsoft.com/images/cnn.png"
+            title="CNN"
+            version="6" >
+
+            <ref
+                bitrate="548"
+                height="320"
+                href="http://media4.lsops.net/live/_definst_/cnn_en_medium.sdp/playlist.m3u8"
+                width="432" />
+        </media>
+
+        <media
+            id="277"
+            guide=""
+            image="http://cn.daroonsoft.com/images/star_sports.png"
+            title="星空体育"
+            version="3" >
+
+            <ref
+                bitrate="412"
+                height="480"
+                href="rtmp://livertmp1.wasu.cn/live3/stars"
+                width="640" />
+        </media>
+    </body>
+
+    <categories>
+
+        <category
+            id="01"
+            name="中央电视台"
+            version="9" >
+
+            <item>
+001
+            </item>
+
+            <item>
+002
+            </item>
+
+            <item>
+003
+            </item>
+
+            <item>
+004
+            </item>
+
+            <item>
+005
+            </item>
+
+            <item>
+006
+            </item>
+
+            <item>
+007
+            </item>
+
+            <item>
+008
+            </item>
+
+            <item>
+009
+            </item>
+
+            <item>
+010
+            </item>
+
+            <item>
+011
+            </item>
+
+            <item>
+012
+            </item>
+
+            <item>
+013
+            </item>
+
+            <item>
+014
+            </item>
+
+            <item>
+214
+            </item>
+
+            <item>
+216
+            </item>
+
+            <item>
+072
+            </item>
+
+            <item>
+073
+            </item>
+
+            <item>
+366
+            </item>
+
+            <item>
+370
+            </item>
+        </category>
+
+        <category
+            id="02"
+            name="地方卫视"
+            version="39" >
+
+            <item>
+018
+            </item>
+
+            <item>
+027
+            </item>
+
+            <item>
+036
+            </item>
+
+            <item>
+037
+            </item>
+
+            <item>
+038
+            </item>
+
+            <item>
+039
+            </item>
+
+            <item>
+042
+            </item>
+
+            <item>
+043
+            </item>
+
+            <item>
+044
+            </item>
+
+            <item>
+045
+            </item>
+
+            <item>
+046
+            </item>
+
+            <item>
+047
+            </item>
+
+            <item>
+048
+            </item>
+
+            <item>
+049
+            </item>
+
+            <item>
+050
+            </item>
+
+            <item>
+051
+            </item>
+
+            <item>
+052
+            </item>
+
+            <item>
+053
+            </item>
+
+            <item>
+054
+            </item>
+
+            <item>
+055
+            </item>
+
+            <item>
+056
+            </item>
+
+            <item>
+057
+            </item>
+
+            <item>
+058
+            </item>
+
+            <item>
+059
+            </item>
+
+            <item>
+061
+            </item>
+
+            <item>
+064
+            </item>
+
+            <item>
+170
+            </item>
+
+            <item>
+171
+            </item>
+
+            <item>
+172
+            </item>
+
+            <item>
+174
+            </item>
+
+            <item>
+286
+            </item>
+        </category>
+
+        <category
+            id="03"
+            name="港澳台电视台"
+            version="36" >
+
+            <item>
+016
+            </item>
+
+            <item>
+017
+            </item>
+
+            <item>
+068
+            </item>
+
+            <item>
+070
+            </item>
+
+            <item>
+075
+            </item>
+
+            <item>
+107
+            </item>
+
+            <item>
+159
+            </item>
+
+            <item>
+160
+            </item>
+
+            <item>
+161
+            </item>
+
+            <item>
+162
+            </item>
+
+            <item>
+163
+            </item>
+
+            <item>
+164
+            </item>
+
+            <item>
+231
+            </item>
+
+            <item>
+294
+            </item>
+        </category>
+
+        <category
+            id="04"
+            name="国外电视台"
+            version="31" >
+
+            <item>
+203
+            </item>
+
+            <item>
+204
+            </item>
+
+            <item>
+208
+            </item>
+
+            <item>
+209
+            </item>
+
+            <item>
+212
+            </item>
+
+            <item>
+213
+            </item>
+
+            <item>
+201
+            </item>
+
+            <item>
+277
+            </item>
+        </category>
+
+        <category
+            id="05"
+            name="体育频道"
+            version="30" >
+
+            <item>
+005
+            </item>
+
+            <item>
+015
+            </item>
+
+            <item>
+094
+            </item>
+
+            <item>
+126
+            </item>
+
+            <item>
+140
+            </item>
+
+            <item>
+322
+            </item>
+
+            <item>
+366
+            </item>
+
+            <item>
+367
+            </item>
+
+            <item>
+368
+            </item>
+
+            <item>
+277
+            </item>
+
+            <item>
+369
+            </item>
+        </category>
+
+        <category
+            id="06"
+            name="湖南电视台"
+            version="18" >
+
+            <item>
+018
+            </item>
+
+            <item>
+022
+            </item>
+
+            <item>
+112
+            </item>
+
+            <item>
+113
+            </item>
+
+            <item>
+114
+            </item>
+        </category>
+
+        <category
+            id="07"
+            name="上海电视台"
+            version="15" >
+
+            <item>
+027
+            </item>
+
+            <item>
+108
+            </item>
+
+            <item>
+111
+            </item>
+
+            <item>
+126
+            </item>
+
+            <item>
+127
+            </item>
+
+            <item>
+128
+            </item>
+
+            <item>
+130
+            </item>
+
+            <item>
+131
+            </item>
+
+            <item>
+132
+            </item>
+
+            <item>
+133
+            </item>
+
+            <item>
+372
+            </item>
+
+            <item>
+373
+            </item>
+
+            <item>
+240
+            </item>
+
+            <item>
+320
+            </item>
+
+            <item>
+368
+            </item>
+        </category>
+
+        <category
+            id="08"
+            name="北京电视台"
+            version="6" >
+
+            <item>
+036
+            </item>
+
+            <item>
+085
+            </item>
+
+            <item>
+086
+            </item>
+
+            <item>
+087
+            </item>
+
+            <item>
+088
+            </item>
+
+            <item>
+089
+            </item>
+
+            <item>
+090
+            </item>
+
+            <item>
+094
+            </item>
+        </category>
+
+        <category
+            id="09"
+            name="浙江电视台"
+            version="8" >
+
+            <item>
+056
+            </item>
+
+            <item>
+115
+            </item>
+
+            <item>
+116
+            </item>
+
+            <item>
+117
+            </item>
+
+            <item>
+118
+            </item>
+
+            <item>
+119
+            </item>
+
+            <item>
+202
+            </item>
+
+            <item>
+337
+            </item>
+
+            <item>
+338
+            </item>
+
+            <item>
+339
+            </item>
+
+            <item>
+340
+            </item>
+
+            <item>
+341
+            </item>
+
+            <item>
+342
+            </item>
+        </category>
+
+        <category
+            id="10"
+            name="湖北电视台"
+            version="6" >
+
+            <item>
+040
+            </item>
+
+            <item>
+134
+            </item>
+
+            <item>
+140
+            </item>
+
+            <item>
+141
+            </item>
+
+            <item>
+225
+            </item>
+        </category>
+
+        <category
+            id="11"
+            name="深圳电视台"
+            version="11" >
+
+            <item>
+064
+            </item>
+        </category>
+
+        <category
+            id="12"
+            name="广东电视台"
+            version="11" >
+
+            <item>
+015
+            </item>
+
+            <item>
+060
+            </item>
+
+            <item>
+061
+            </item>
+
+            <item>
+062
+            </item>
+
+            <item>
+065
+            </item>
+
+            <item>
+066
+            </item>
+
+            <item>
+123
+            </item>
+
+            <item>
+124
+            </item>
+
+            <item>
+165
+            </item>
+
+            <item>
+191
+            </item>
+
+            <item>
+192
+            </item>
+
+            <item>
+193
+            </item>
+
+            <item>
+194
+            </item>
+
+            <item>
+195
+            </item>
+
+            <item>
+196
+            </item>
+
+            <item>
+197
+            </item>
+
+            <item>
+198
+            </item>
+
+            <item>
+199
+            </item>
+
+            <item>
+200
+            </item>
+
+            <item>
+234
+            </item>
+
+            <item>
+235
+            </item>
+
+            <item>
+334
+            </item>
+
+            <item>
+335
+            </item>
+
+            <item>
+369
+            </item>
+        </category>
+
+        <category
+            id="13"
+            name="四川电视台"
+            version="1" >
+
+            <item>
+055
+            </item>
+
+            <item>
+295
+            </item>
+
+            <item>
+296
+            </item>
+
+            <item>
+297
+            </item>
+
+            <item>
+298
+            </item>
+
+            <item>
+299
+            </item>
+
+            <item>
+300
+            </item>
+
+            <item>
+301
+            </item>
+        </category>
+
+        <category
+            id="014"
+            name="安徽电视台"
+            version="1" >
+
+            <item>
+057
+            </item>
+
+            <item>
+323
+            </item>
+
+            <item>
+324
+            </item>
+
+            <item>
+325
+            </item>
+
+            <item>
+326
+            </item>
+
+            <item>
+327
+            </item>
+
+            <item>
+328
+            </item>
+
+            <item>
+329
+            </item>
+        </category>
+
+        <category
+            id="15"
+            name="吉林电视台"
+            version="1" >
+
+            <item>
+059
+            </item>
+
+            <item>
+302
+            </item>
+
+            <item>
+303
+            </item>
+
+            <item>
+304
+            </item>
+
+            <item>
+305
+            </item>
+
+            <item>
+306
+            </item>
+
+            <item>
+307
+            </item>
+
+            <item>
+308
+            </item>
+        </category>
+
+        <category
+            id="16"
+            name="福建电视台"
+            version="2" >
+
+            <item>
+170
+            </item>
+
+            <item>
+226
+            </item>
+
+            <item>
+345
+            </item>
+
+            <item>
+346
+            </item>
+
+            <item>
+347
+            </item>
+
+            <item>
+348
+            </item>
+
+            <item>
+349
+            </item>
+
+            <item>
+350
+            </item>
+
+            <item>
+286
+            </item>
+        </category>
+
+        <category
+            id="17"
+            name="黑龙江电视台"
+            version="2" >
+
+            <item>
+042
+            </item>
+        </category>
+
+        <category
+            id="18"
+            name="武汉电视台"
+            version="1" >
+
+            <item>
+322
+            </item>
+
+            <item>
+332
+            </item>
+        </category>
+
+        <category
+            id="19"
+            name="云南电视台"
+            version="1" >
+
+            <item>
+047
+            </item>
+
+            <item>
+310
+            </item>
+
+            <item>
+311
+            </item>
+
+            <item>
+312
+            </item>
+        </category>
+
+        <category
+            id="020"
+            name="海南电视台"
+            version="1" >
+
+            <item>
+063
+            </item>
+
+            <item>
+352
+            </item>
+
+            <item>
+353
+            </item>
+
+            <item>
+354
+            </item>
+
+            <item>
+355
+            </item>
+
+            <item>
+356
+            </item>
+        </category>
+
+        <category
+            id="21"
+            name="甘肃电视台"
+            version="1" >
+
+            <item>
+171
+            </item>
+        </category>
+
+        <category
+            id="22"
+            name="陕西电视台"
+            version="3" >
+
+            <item>
+045
+            </item>
+        </category>
+
+        <category
+            id="23"
+            name="其他电视台"
+            version="2" >
+
+            <item>
+187
+            </item>
+
+            <item>
+236
+            </item>
+        </category>
+    </categories>
+
+</list>
